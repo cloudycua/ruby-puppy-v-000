@@ -13,4 +13,6 @@ class Dog
     @all.each { |dog| puts dog.name }
   end
 
+  def clear_all
+
 end
